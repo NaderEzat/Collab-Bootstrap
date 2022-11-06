@@ -1,0 +1,168 @@
+.custom-btn1{
+  background-image: linear-gradient(50deg, #fe9a52, #ff5748);
+  display: inline-block;
+    font-weight: 500;
+    line-height: 1.5;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+.Dan-btn{
+  background-image: linear-gradient(50deg, #fe9a52, #ff5748);
+  display: inline-block;
+    font-weight: 500;
+    line-height: 1.5;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+.check-btn{
+  background-image: linear-gradient(50deg, #fe9a52, #ff5748);
+  display: inline-block;
+    font-weight: 500;
+    line-height: 1.5;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+.custom-text {
+  color: #5022E2;
+}
+
+.custom-bg{
+  background-color: #fff0e5;
+}
+
+.py-6 {
+  padding-top: 4rem ;
+  padding-bottom: 4rem ;
+}
+.col-auto{
+  flex: 0 0 auto !important;
+
+}
+
+
+.custext-center{
+  text-align: center ;
+}
+
+
+.fs-1 {
+  font-size: 1.2rem !important;
+}
+.flex-center{
+  justify-content: center;
+
+}
+
+.text-md-start {
+  text-align: left !important;
+}
+
+.text-primary {
+  color: #5022E2 !important;
+  margin-bottom: 1px;
+}
+.fs-lg-5 {
+  font-size: 2.48832rem !important;
+}
+.lh-sm {
+  line-height: 1.25 ;
+}
+.fw-bold {
+  font-weight: 700 ;
+}
+
+.fs-1 {
+  font-size: 1.2rem;
+}
+.my-4 {
+  margin-top: 1.8rem ;
+  margin-bottom: 1.8rem ;
+}
+
+.custom-btn3{
+  background-image: linear-gradient(50deg, #fe9a52, #ff5748);
+  display: inline-block;
+    font-weight: 500;
+    line-height: 1.5;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+.flex-center {
+  justify-content: center;
+}
+
+.custom-btn5{
+  background-image: linear-gradient(50deg, #fe9a52, #ff5748);
+  display: inline-block;
+    font-weight: 500;
+    line-height: 1.5;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+.C-btn{
+  background-image: linear-gradient(50deg, #fe9a52, #ff5748);
+  display: inline-block;
+    font-weight: 500;
+    line-height: 1.5;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+
+}
+
+.bg-warning-gradient {
+  background: linear-gradient(274.74deg, #FFECD7 9.5%, rgba(255, 236, 215, 0) 100.79%);
+}
+
+
+.Custom1-center {
+  text-align: center !important;
+}
+
+.bg-holder1{
+  background-image:url(./img/cta-2-bg.png);}
+
+
+
+  .justify-content-lg-end {
+    -webkit-box-pack: end !important;
+    -ms-flex-pack: end !important;
+    justify-content: flex-end !important;
+}
+
+.Cu-BBTN{
+  background-image: linear-gradient(50deg, #fe9a52, #ff5748);
+  display: inline-block;
+    font-weight: 500;
+    line-height: 1.5;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+
+}
+
+.flex-center99 {
+  justify-content: center;
+}
+
+.custom-img-last {
+  overflow: auto;
+}
+.custom-banner-img {
+  background: linear-gradient(
+    0deg,
+    #ff5748 10.04%,
+    #fe9a52 74.4%,
+    #fffefc 25.4%
+  );
+}
